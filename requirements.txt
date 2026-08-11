@@ -1,0 +1,5 @@
+SpeechRecognition>=3.10.0
+soundcard>=0.4.3
+numpy>=1.24.0
+Telethon>=1.34.0
+pywin32>=306; sys_platform == "win32"
